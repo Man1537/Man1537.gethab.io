@@ -1,2 +1,2 @@
-# man1537.gethab.io
+# man1537.githab.io
 Конспект курса
